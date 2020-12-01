@@ -8,7 +8,7 @@ which involves using a value estimation network to choose among the best k summa
 decoding process. Successfully reproduced the results of the paper on the CNN/DailyMail news dataset [3].
 
 
-Implementation based on the paper [4].
+Implementation based on the paper [4]. Work done as part of the <a href="http://midas.iiitd.edu.in/">MIDAS</a> Research Lab under the supervision of <a href="http://faculty.iiitd.ac.in/~rajivratn/">Dr. Rajiv Ratn Shah</a>.
 
 ### References
 1. C. Li, W. Xu, S. Li, and S. Gao, “Guiding generation for abstractive text summarization based on key information guide network,” in
