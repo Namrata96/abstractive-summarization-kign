@@ -8,9 +8,7 @@ which involved using a value estimation network to choose among the best k summa
 decoding process. Successfully reproduced the results of the paper on the CNN/DailyMail news dataset [3].
 
 
-Implementation based on the <a href="https://www.aclweb.org/anthology/N18-2009.pdf">paper</a> -
-
-```Li, Chenliang, et al. "Guiding generation for abstractive text summarization based on key information guide network." Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers). 2018.```
+Implementation based on the paper [4].
 
 ### References
 1. C. Li, W. Xu, S. Li, and S. Gao, “Guiding generation for abstractive text summarization based on key information guide network,” in
@@ -22,3 +20,4 @@ the 31st International Conference on Neural Information Processing Systems, ser.
 3. K. M. Hermann, T. Kočiský, E. Grefenstette, L. Espeholt, W. Kay, M. Suleyman, and P. Blunsom, “Teaching machines to read and
 comprehend,” in Proceedings of the 28th International Conference on Neural Information Processing Systems - Volume 1, ser. NIPS’15.
 Cambridge, MA, USA: MIT Press, 2015, pp. 1693–1701. Available <a href="http://dl.acm.org/citation.cfm?id=2969239.2969428">here</a>.
+4. Li, Chenliang, et al. "Guiding generation for abstractive text summarization based on key information guide network." Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers). 2018. Available  <a href="https://www.aclweb.org/anthology/N18-2009.pdf">here</a>.
